@@ -1,4 +1,5 @@
 # test-repo
 ##Test
-*a
-*b
+
+-a
+-b
